@@ -2,7 +2,7 @@
 
 
 
-<a href="linkedin.com/in/osama-atwa">
+<a href="https://www.linkedin.com/in/osama-atwa/">
   <img align="left" alt="Osama's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
